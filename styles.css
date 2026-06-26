@@ -226,9 +226,6 @@ nav {
   align-items: center;
 }
 
-.about-text {
-}
-
 .section-label {
   font-family: 'DM Mono', monospace;
   font-size: 11px;
@@ -355,7 +352,7 @@ nav {
 .service-num {
   font-family: 'DM Mono', monospace;
   font-size: 11px;
-  color: var(--tiffany);
+  color: var(--dark);
   letter-spacing: 0.15em;
   margin-bottom: 28px;
 }
@@ -517,8 +514,8 @@ nav {
   font-size: 10px;
   letter-spacing: 0.15em;
   text-transform: uppercase;
-  color: rgba(255, 255, 255, 0.7);
-  background: rgba(0, 0, 0, 0.4);
+  color: rgba(92, 92, 92);
+  background: rgba(129, 216, 208);
   padding: 6px 10px;
 }
 
